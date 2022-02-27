@@ -9,6 +9,7 @@ RUN addgroup -g 1001 -S nodejs
 RUN adduser -S nextjs -u 1001
 
 COPY ./public /opt/app/public
+COPY ./global-bundle.pem /opt/app/global-bundle.pem
 COPY --chown=nextjs:nodejs ./.next /opt/app/.next
 COPY ./node_modules /opt/app/node_modules
 COPY ./package.json /opt/app/package.json
