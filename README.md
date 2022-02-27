@@ -1,6 +1,6 @@
 # AWS Technical series (Integrating PostgreSQL with Next.js)
 
-Part 3 of the [AWS Aurora Technical Series](https://www.jerrychang.ca/writing/aws-aurora-technical-series).
+Part 4 of the [AWS Aurora Technical Series](https://www.jerrychang.ca/writing/aws-aurora-technical-series).
 
 To see the module, please visit [AWS Aurora Technical Series Part IV - PostgreSQL integration with Next.js](https://www.jerrychang.ca/writing/aws-aurora-technical-series-postgresql-integration-nextjs)
 
